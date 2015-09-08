@@ -1,0 +1,39 @@
+[submodule "rules/koodous/Yara-Ruleset"]
+	path = rules/koodous/Yara-Ruleset
+	url = git@github.com:Koodous/Yara-Ruleset.git
+[submodule "rules/securitykitten/public_yara_rule"]
+	path = rules/securitykitten/public_yara_rule
+	url = git@github.com:securitykitten/public_yara_rules.git
+[submodule "rules/naxonez/yaraRules"]
+	path = rules/naxonez/yaraRules
+	url = git@github.com:naxonez/yaraRules.git
+[submodule "rules/zerklabs/yarasigs"]
+	path = rules/zerklabs/yarasigs
+	url = git@github.com:zerklabs/yarasigs.git
+[submodule "rules/jaimeblasco/AlienvaultLabs"]
+	path = rules/jaimeblasco/AlienvaultLabs
+	url = git@github.com:jaimeblasco/AlienvaultLabs.git
+[submodule "rules/nyx0/yara4m"]
+	path = rules/nyx0/yara4m
+	url = git@github.com:nyx0/yar4m.git
+[submodule "docker-yara"]
+	path = docker-yara
+	url = git@github.com:blacktop/docker-yara.git
+[submodule "rules/citizenlab/malware-signature"]
+	path = rules/citizenlab/malware-signature
+	url = git@github.com:citizenlab/malware-signatures.git
+[submodule "rules/x64dbg/yarasigs"]
+	path = rules/x64dbg/yarasigs
+	url = git@github.com:x64dbg/yarasigs.git
+[submodule "rules/jvoisin/yara_rules"]
+	path = rules/jvoisin/yara_rules
+	url = git@github.com:jvoisin/yara_rules.git
+[submodule "rules/0day1day/yarasigs"]
+	path = rules/0day1day/yarasigs
+	url = git@github.com:0day1day/yarasigs.git
+[submodule "rules/phbiohazard/Yara"]
+	path = rules/phbiohazard/Yara
+	url = git@github.com:phbiohazard/Yara.git
+[submodule "rules/Phoul/yara_rules"]
+	path = rules/Phoul/yara_rules
+	url = git@github.com:Phoul/yara_rules.git
