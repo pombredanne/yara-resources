@@ -37,3 +37,24 @@
 [submodule "rules/Phoul/yara_rules"]
 	path = rules/Phoul/yara_rules
 	url = git@github.com:Phoul/yara_rules.git
+[submodule "rules/jipegit/yara-rules-public"]
+	path = rules/jipegit/yara-rules-public
+	url = git@github.com:jipegit/yara-rules-public.git
+[submodule "tools/7h3rAm/yara-rules-handler"]
+	path = tools/7h3rAm/yara-rules-handler
+	url = git@github.com:7h3rAm/yara-rules-handler.git
+[submodule "tools/ZSShen/BinaryCluster-YaraGenerator"]
+	path = tools/ZSShen/BinaryCluster-YaraGenerator
+	url = git@github.com:ZSShen/BinaryCluster-YaraGenerator.git
+[submodule "rules/pveutin/YaraRules"]
+	path = rules/pveutin/YaraRules
+	url = git@github.com:pveutin/YaraRules.git
+[submodule "rules/mjruffin/malware_signatures"]
+	path = rules/mjruffin/malware_signatures
+	url = git@github.com:mjruffin/malware_signatures.git
+[submodule "rules/adamburt/Yara-sigs"]
+	path = rules/adamburt/Yara-sigs
+	url = git@github.com:adamburt/Yara-sigs.git
+[submodule "rules/abhinavbom/Yara-Rules"]
+	path = rules/abhinavbom/Yara-Rules
+	url = git@github.com:abhinavbom/Yara-Rules.git
