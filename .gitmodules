@@ -58,3 +58,21 @@
 [submodule "rules/abhinavbom/Yara-Rules"]
 	path = rules/abhinavbom/Yara-Rules
 	url = git@github.com:abhinavbom/Yara-Rules.git
+[submodule "rules/Yara-Rules/rules"]
+	path = rules/Yara-Rules/rules
+	url = git@github.com:Yara-Rules/rules.git
+[submodule "rules/arbor/yara"]
+	path = rules/arbor/yara
+	url = git@github.com:arbor/yara.git
+[submodule "rules/1aN0rmus/Yara"]
+	path = rules/1aN0rmus/Yara
+	url = git@github.com:1aN0rmus/Yara.git
+[submodule "rules/0pc0deFR/YaraRules"]
+	path = rules/0pc0deFR/YaraRules
+	url = git@github.com:0pc0deFR/YaraRules.git
+[submodule "rules/3vangel1st/Yara"]
+	path = rules/3vangel1st/Yara
+	url = git@github.com:3vangel1st/Yara.git
+[submodule "rules/paralax/HorribleCanoe"]
+	path = rules/paralax/HorribleCanoe
+	url = git@github.com:paralax/HorribleCanoe.git
