@@ -76,3 +76,6 @@
 [submodule "rules/paralax/HorribleCanoe"]
 	path = rules/paralax/HorribleCanoe
 	url = git@github.com:paralax/HorribleCanoe.git
+[submodule "tools/GithubDownloader"]
+	path = tools/GithubDownloader
+	url = git@github.com:unusedPhD/GithubDownloader.git
